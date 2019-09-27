@@ -1,0 +1,19 @@
+{
+  "name": "sass-playground",
+  "version": "1.0.0",
+  "description": "a simple app to play with sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buckeyja/sass_playground.git"
+  },
+  "author": "Leo Buckey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buckeyja/sass_playground/issues"
+  },
+  "homepage": "https://github.com/buckeyja/sass_playground#readme"
+}
